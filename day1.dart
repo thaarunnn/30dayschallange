@@ -23,5 +23,5 @@ void main(){
     print("City : $city");
     print("TRUE/FALSE : $something");
     print("List : $animals");
-    print("Map : $marks")
+    print("Map : $marks");
 }
